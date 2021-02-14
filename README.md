@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @behnamfani
+- 👋 Hi, I’m Behnam Fanitabasi (@behnamfani)
 - 👀 I’m interested in Machine Learning, Artificial Intelligence, Neural Networks and Data Mining.
 - 🌱 I’m currently learning Data Science and Machine Learning methods.
 - 📫 Behnam.fani18@gmail.com
