@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning, Artificial Intelligence, GenAI, and Data Science.
 - 🌱 I’m currently working in the flieds of Data Science, Machine Learning, and GenAI.
 - 📫 Behnam.fani18@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/behnam-fanitabasi/)
+- ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [behnam-fanitabasi](https://www.linkedin.com/in/behnam-fanitabasi/)
 - 😄 Thank you for checking my page!
 
 <!---
