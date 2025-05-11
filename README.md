@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Behnam Fanitabasi (@behnamfani)
-- 👀 I’m interested in Machine Learning, Artificial Intelligence, and Data Science.
-- 🌱 I’m currently learning Data Science and Machine Learning methods and working in these fields.
+- 👀 I’m interested in Machine Learning, Artificial Intelligence, GenAI, and Data Science.
+- 🌱 I’m currently working in the flieds of Data Science, Machine Learning, and GenAI.
 - 📫 Behnam.fani18@gmail.com
 - 😄 Thank you for checking my page!
 
